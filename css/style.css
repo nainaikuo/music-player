@@ -1,4 +1,4 @@
-html,body{
+body{
     background: #EEE;
     display: flex;
     justify-content: center;
@@ -10,9 +10,6 @@ html,body{
     width: 100%;
     margin: 0;
     padding: 0;
-}
-*{
-    /* border: 1px solid; */
 }
 .mask{
     background: #FFF;
