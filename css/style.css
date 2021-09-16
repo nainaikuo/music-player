@@ -8,7 +8,7 @@ body{
     padding-top: 50px;
     height: 100%;
     width: 100%;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 .mask{
@@ -20,9 +20,14 @@ body{
     padding: 0;
     margin: 0;
 }
+.content{
+    width: 1500px;
+    padding: 100px;
+}
 .phone{
     background: #DDD;
     width: 375px;
+    margin: 0 auto;
 }
 .top{
     background: #000;
